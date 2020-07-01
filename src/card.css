@@ -1,0 +1,25 @@
+.container{
+    margin:0;
+}
+
+.col{
+    margin:auto;
+    padding:0;
+   border:1px solid grey;
+   border-radius: 10px;
+   max-width:700px;
+   display: block;
+   height:100px;
+   text-align: center;
+   background-color: lightgrey;
+   
+}
+
+.list-inline-item{
+   font-weight: bold;
+   font-size: small;
+}
+
+
+
+

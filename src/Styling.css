@@ -1,0 +1,17 @@
+.ruler{
+    color: red;
+    background-color: red;
+    height: 1px;
+    border-color: red
+}
+
+.dropdown-item{
+    width:auto;
+    align-content: center;
+}
+
+
+.dropdown-menu{
+    align-content: center;
+    border: none;
+}
