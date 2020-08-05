@@ -1,0 +1,31 @@
+{   "priority": 1,
+    "request": {
+        "method": "GET",
+        "url": "/body-file/Hellen"
+       
+    },
+    "response": {
+        "status": 200,
+        "jsonBody": [{
+            "first": "Hellen",
+            "last": "Heathcote",
+            "email": "pinksquirrel62@gmail.com",
+            "address": "487 Tremblay Landing",
+            "created": "October 5, 2013",
+            "balance": "$7,343.33"
+        }, 
+      {
+        "first": "Casimer",
+        "last": "Koss",
+        "email": "limewolf01@gmail.com",
+        "address": "80589 Hoeger Route",
+        "created": "December 16, 2012",
+        "balance": "$5,816.67"
+      }],
+      
+        "headers": {
+            "Content-Type": "application/json"
+    }
+    }
+        
+}

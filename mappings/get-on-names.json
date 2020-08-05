@@ -1,0 +1,21 @@
+{   "priority": 1,
+    "request": {
+        "method": "GET",
+        "url": "/body-file/Hellen/Heathcote"
+    },
+    "response": {
+        "status": 200,
+        "jsonBody":[ {
+            "first": "Hellen",
+            "last": "Heathcote",
+            "email": "pinksquirrel62@gmail.com",
+            "address": "487 Tremblay Landing",
+            "created": "October 5, 2013",
+            "balance": "$7,343.33"
+        }], 
+       "headers": {
+            "Content-Type": "application/json"
+    }
+}
+}
+
